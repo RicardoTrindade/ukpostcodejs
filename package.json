@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Uk postcode parsing",
   "main": "index.js",
+  "keywords": ["Uk Postcode"],
   "scripts": {
     "test": "npm run test"
   },
