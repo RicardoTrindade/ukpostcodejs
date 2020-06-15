@@ -1,10 +1,6 @@
-
-
- UkPostkode
+UkPostcodeJS
 ========
 
-[![Status](https://github.com/RicardoTrindade/UkPostkode/workflows/Build/badge.svg)](https://github.com/RicardoTrindade/UkPostkode/workflows/Build/badge.svg)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.ricardo-trindade/ukpostkode/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.ricardo-trindade/ukpostkode)
 
 
 Uk Postcode parsing library written in Javascript. Similar to the gem [UkPostcode](https://github.com/threedaymonk/uk_postcode/) and a sibiling of [UkPostkode](https://github.com/RicardoTrindade/UkPostkode).
