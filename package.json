@@ -1,0 +1,11 @@
+{
+  "name": "ukpostcodejs",
+  "version": "1.0.0",
+  "description": "Uk postcode parsing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "RicardoTrindade",
+  "license": "ISC"
+}
